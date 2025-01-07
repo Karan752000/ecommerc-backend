@@ -1,2 +1,2 @@
 # ecommerc-backend
-Java, Springboot, JWT
+Java, Springboot, JWT, RESTful service
